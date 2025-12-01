@@ -80,7 +80,7 @@ An AI-powered investment research agent that:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/multi-agent-stock-analyzer.git
+git clone https://github.com/yhernandez55/multi-agent-stock-analyzer.git
 cd ai-investment-agent
 
 # Create virtual environment
