@@ -11,12 +11,11 @@
 
 An intelligent agent that automates stock investment research, reducing analysis time from 2+ hours to 3 minutes while maintaining 85% quality assurance standards.
 
----
 
 ## 🎯 Quick Links
 
 - 📓 [**Live Kaggle Demo**](ai-financial-assistant.ipynb)
-- 🎥 [**Screenshot Example**](/var/folders/6j/3l6q9l4515sdmfyg8znhblxr0000gn/T/TemporaryItems/NSIRD_screencaptureui_v34MpG/Screenshot 2025-11-30 at 9.30.55 PM.png)
+- 🎥 [**Screenshot Example**](https://github.com/user-attachments/assets/3b77fb72-b25d-4833-beca-4f7aa5793410)
 
 ---
 
