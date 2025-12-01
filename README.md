@@ -16,7 +16,7 @@ An intelligent agent that automates stock investment research, reducing analysis
 ## 🎯 Quick Links
 
 - 📓 [**Live Kaggle Demo**](ai-financial-assistant.ipynb)
-- 🎥 [**Video Walkthrough**](/var/folders/6j/3l6q9l4515sdmfyg8znhblxr0000gn/T/TemporaryItems/NSIRD_screencaptureui_zdajiz/Screen Recording 2025-11-30 at 9.24.29 PM.mov)
+- 🎥 [**Screenshot Example**](/var/folders/6j/3l6q9l4515sdmfyg8znhblxr0000gn/T/TemporaryItems/NSIRD_screencaptureui_v34MpG/Screenshot 2025-11-30 at 9.30.55 PM.png)
 
 ---
 
@@ -93,7 +93,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # Set up API key
-export GOOGLE_API_KEY=" "
+export GOOGLE_API_KEY="YOUR API KEY" 
 ```
 
 ### Quick Start
