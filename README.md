@@ -117,17 +117,6 @@ Visit `http://localhost:8000` and start testing!
 
 ---
 
-## 📊 Results & Validation
-
-### Performance Metrics
-
-- ⚡ **Time Efficiency**: 95% reduction (2 hours → 3 minutes)
-- ✅ **Quality Score**: 85% pass rate on automated evaluation
-- 🎯 **Success Rate**: 100% completion rate (no failures)
-- 📈 **Coverage**: Successfully analyzes stocks across all sectors
-
----
-
 ## 🙏 Acknowledgments
 
 - **Google & Kaggle** - 5-Day AI Agents Intensive Course
