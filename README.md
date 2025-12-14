@@ -136,7 +136,7 @@ cp .env.example .env
 
 #### Option 1: Run in Kaggle (Recommended)
 
-1. Open the [Kaggle notebook](ai-financial-assistant.ipynb)
+1. Open the [Kaggle notebook](notebooks/ai-financial-assistant.ipynb)
 2. Click "Copy and Edit"
 3. Go to "Add-ons" → "Secrets" → Add GOOGLE_API_KEY
 4. Run all cells
