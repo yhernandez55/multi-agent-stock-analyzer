@@ -17,7 +17,7 @@ An intelligent agent that automates stock investment research, reducing analysis
 
 - 📓 [**Live Kaggle Demo**](Notebooks/ai-financial-assistant.ipynb)
 - 🎥 [**Screenshot Example**](https://github.com/user-attachments/assets/3b77fb72-b25d-4833-beca-4f7aa5793410)
-- 💻 [**Local Setup**](Runner/run_local_demo.py) - Run on your machine
+- 💻 [**Local Setup**](demos/run_local_demo.py) - Run on your machine
 
 ---
 
