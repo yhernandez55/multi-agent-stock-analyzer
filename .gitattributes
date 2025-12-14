@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Ensure Jupyter Notebooks use LF line endings
+*.ipynb text eol=lf
+
